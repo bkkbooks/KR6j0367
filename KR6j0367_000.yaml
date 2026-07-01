@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0367/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說如意虗空藏菩薩陀羅尼經
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0192.xml
+    old_id: X02n0192
+hash: sha256:2da9ea998f2320f20bd9f0c4d459900f5235482e1d9608316326dfbea9326016
