@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0367/v1
 canonical_location: https://kanripo.org/bkk/KR6j0367/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說如意虗空藏菩薩陀羅尼經
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0367_000.yaml, hash: 'sha256:2da9ea998f2320f20bd9f0c4d459900f5235482e1d9608316326dfbea9326016'}
-  - {seq: 1, filename: KR6j0367_001.yaml, hash: 'sha256:c74df295a9938fc9076a33d4d033130758c5841c17698e9d58cdc530f8fba4ff'}
+  - {seq: 1, filename: KR6j0367_001.yaml, hash: 'sha256:a458d4cad2cb4331897778fe35233fa6267fcf1b85afabe80b9592d8c699803d'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0367_000.markers.yaml, hash: 'sha256:e3ee92ab486b15c6c5071b7e89e29143be41019c284dc87bf96af68581852205'}
-  - {seq: 1, role: markers, filename: assets/KR6j0367_001.markers.yaml, hash: 'sha256:5c5c9d4ec4a1547a443d0051fbdfe522be00c29f5bebab4549b485fd7a6bd3bc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0367_001.markers.yaml, hash: 'sha256:d2905abefbf99c68f1df6737abad1e34e4e1d5376298d55e022d6a9e4532c6b9'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 佛說如意虗空藏菩薩陀羅尼經
   type: juan
   level: 1
-hash: sha256:b26006cb007db20bd1e28f67065c1bd6596e8a4e90f26547d3901aa5296b1108
+hash: sha256:2eb9d0a0c89bf67f1eb77b5bcdc0ca48d73569fcc15774922fdff56fe102dfdc
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
